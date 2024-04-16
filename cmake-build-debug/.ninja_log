@@ -1,0 +1,8 @@
+# ninja log v5
+2	563	1713231771238186564	CMakeFiles/Image_Processor.dir/image/image.cpp.o	538b8ea3161743
+1	669	1713231771343849388	CMakeFiles/Image_Processor.dir/parsing/parse.cpp.o	294eb15c1d3e277b
+2	682	1713231771358585271	CMakeFiles/Image_Processor.dir/filters/filters.cpp.o	3e896562ca67ad1a
+1	742	1713231771417982717	CMakeFiles/Image_Processor.dir/image_pr.cpp.o	38e05e31bb56debc
+2	742	1713231771419792531	CMakeFiles/Image_Processor.dir/reading_and_writing/Reader.cpp.o	b75e50c188fab738
+2	746	1713231771423846862	CMakeFiles/Image_Processor.dir/reading_and_writing/Write.cpp.o	a1e554fdf65bc875
+746	785	1713231771464796340	Image_Processor	6d5fbb02e2c6d3d0
